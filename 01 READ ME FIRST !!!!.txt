@@ -1,0 +1,29 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+>> NOTE : (for admin panel, login from the user's login)
+>>Enter the following details in Login for Admin Panel.
+
+Username: admin@admin.com
+Password: password
+
+USER LOGIN:
+
+Username: harry@den.com
+Password: code0
+
+DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "database" FOLDER!
+
+>>Create a folder named "bower_components" and unzip all contents of bower_components.zip into it.
+
+>>Unzip all contents of third.zip into your root(main) folder.
+
+
+>>Unzip all contents of fourth.zip into your root(main) folder.
+
+>>Snapshots of how folder directories should look like after unzipping will be added.
+
